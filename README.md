@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a self-motivated and hardworking graduate seeking an opportunity to work in a challenging environment to prove my coding skills and utilize my knowledge for the growth of the organization. I am currently pursuing my engineering from Dronacharya College of Engineering. I am into competitive programming and problem-solving. I participate in competitive programming contest on platforms like Codechef, Hackerrank, and HackerEarth regularly.
+I am Nishant Awasthi and I do Python development and Web Scraping. I am also into competitive programming and problem-solving. I participate in competitive programming contest on platforms like Codechef, Hackerrank, and HackerEarth.
 
 
 
@@ -26,7 +26,10 @@ I am a self-motivated and hardworking graduate seeking an opportunity to work in
 ### 📫 How to reach me:
 
 
-   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nishant-awasthi-1970b3193/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/el-psy-congroooo)
+```
+```
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nishant-awasthi-1970b3193/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/el-psy-congroooo)
 
 
 
