@@ -25,6 +25,6 @@ I am a self-motivated and hardworking graduate seeking an opportunity to work in
 #### 📫 How to reach me:
 
 
-[](https://www.linkedin.com/in/nishant-awasthi-1970b3193/)
+[LinkedIn](https://www.linkedin.com/in/nishant-awasthi-1970b3193/)
 
 https://github.com/el-psy-congroooo
