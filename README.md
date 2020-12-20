@@ -1,4 +1,4 @@
-### Hi there I am Nishant👋
+## Hi there I am Nishant👋
 
 <!--
 **el-psy-congroooo/el-psy-congroooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,6 @@ I am a self-motivated and hardworking graduate seeking an opportunity to work in
 * 🌱 I’m currently learning Flask, Flask-RESTful and to make **CRUD** and **REST** API.
 * 👯 I’m looking to collaborate on Open Source Projects.
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/nishant-awasthi-1970b3193/) [GitHub](https://github.com/el-psy-congroooo)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nishant-awasthi-1970b3193/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/el-psy-congroooo)
