@@ -26,7 +26,6 @@ I am Nishant Awasthi and I do Python development and Web Scraping. I am also int
 
 ### 📫 How to reach me:
 
-
 ```
 ```
 
