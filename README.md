@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 I am Nishant Awasthi and I do Python development and Web Scraping. I am also into competitive programming and problem-solving. I participate in competitive programming contest on platforms like Codechef, Hackerrank, and HackerEarth.
 
 
@@ -22,7 +23,7 @@ I am Nishant Awasthi and I do Python development and Web Scraping. I am also int
 * 🔭 I’m currently working on REST APIs and Web Scraping.
 * 🌱 I’m currently learning Flask, Flask-RESTful and to make **CRUD** and **REST** API.
 * 👯 I’m looking to collaborate on Open Source Projects.
-
+-->
 
 ### 📫 How to reach me:
 
