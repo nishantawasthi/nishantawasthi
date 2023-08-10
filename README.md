@@ -28,11 +28,11 @@ I am Nishant Awasthi and I do Python development and Web Scraping. I am also int
 ### 📫 How to reach me:
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nishant-awasthi-1970b3193/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/el-psy-congroooo)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nishantawasthii/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/el-psy-congroooo)
 
 
 
-![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=el-psy-congroooo&show_icons=true&count_private=true&theme=dracula)
+![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=nishantawasthi&show_icons=true&count_private=true&theme=dracula)
 
 
 
