@@ -36,4 +36,4 @@ I am Nishant Awasthi and I do Python development and Web Scraping. I am also int
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-psy-congroooo&langs_count=6&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantawasthi&langs_count=6&layout=compact)
